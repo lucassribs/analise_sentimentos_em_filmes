@@ -1,5 +1,7 @@
 # ANÁLISE DE SENTIMENTOS EM REVIEWS DE FILMES DO IMDB
 
+![image](https://github.com/lucassribs/analise_sentimentos_em_filmes/assets/128986146/644bdd75-0e70-4cbc-99c1-169f139d699f)
+
 
 O projeto tem como objetivo aplicar um modelo preditivo capaz de, a partir dos comentários feitos por usuários
 do site IMDB (Internet Movie Database), avaliar a polaridade dos textos e classificá-los
