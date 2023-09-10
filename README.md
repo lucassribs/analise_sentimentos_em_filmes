@@ -1,1 +1,1 @@
-# analise_sentimentos_em_filmes
+# ANÁLISE DE SENTIMENTOS EM REVIEWS DE FILMES DO IMDB
