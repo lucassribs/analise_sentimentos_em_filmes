@@ -11,7 +11,7 @@ mais destacadas em Processamento de Linguagem Natural e mineração de texto.
 Atualmente, diversos espectadores, quando desejam assistir a algum filme em sua casa ou 
 no cinema, recorrem a sites especializados, em busca de críticas sobre uma determinada 
 obra, onde estas opiniões possuem forte influência sobre a decisão do usuário de assistir, 
-ou não, a um determinado filme. Tais opiniões vêm sendo cada vez mais utilizadas na obtenção de feedback diretamente do público-alvo durante os últimos anos, com a aplicação 
+ou não, a um determinado filme. Tais opiniões vêm sendo cada vez mais utilizadas na obtenção de feedback diretamente do público-alvo durante os últimos anos, com a aplicação 
 da análise de sentimentos.
 Neste sentido, insere-se este projeto, cujo objetivo principal é desenvolver um modelo 
 preditivo baseado em técnicas de aprendizado de máquina supervisionado pela equipe de 
